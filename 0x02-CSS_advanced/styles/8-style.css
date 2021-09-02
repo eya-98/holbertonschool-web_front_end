@@ -6,7 +6,7 @@ body {
     color: var(--text-color);
     font-family: var(--font-family-base);
     font-weight: var(--font-weight-regular);
-    line-height: var(--line-height-small);
+    line-height: var(--line-height-base);
 }
 h1, h2, h3, h4, h5, h6{
     font-family: var(--font-family-title);
