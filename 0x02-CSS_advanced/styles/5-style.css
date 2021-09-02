@@ -1,5 +1,6 @@
 html {
     scroll-behavior: smooth;
+    font-size: 62.5%;
     }
 body {
     color: var(--text-color);
@@ -35,9 +36,7 @@ a {
     --font-size-x-large: 2.3rem;
     --font-size-xx-large: 4.8rem;
 }
-* {
-    font-size: 62.5%;
-}
+
 body {
     font-size: var(--font-size-medium)
 }
