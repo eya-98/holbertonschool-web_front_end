@@ -515,7 +515,7 @@ margin-left: auto;
 .footer{
     padding: var(--footer-padding);
 }
-.footer-adress{
+.footer-address{
     color: var(--text-color);
 }
 .social-link{
