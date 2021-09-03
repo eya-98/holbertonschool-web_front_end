@@ -403,9 +403,9 @@ a:active{
     background-color: var(--color-light-grey);
 }
 .row::after {
-    content: none;
+    content: "";
     display: table;
-    float: none;
+    clear: both;
 }
 .visually-hidden {
     display: none;
