@@ -24,7 +24,7 @@ a:hover{
     text-decoration: underline; 
 }
 a:active{
-    background-color: color-light-grey;
+    background-color: var(--color-light-grey);
 }
 .visually-hidden {
     display: none;
