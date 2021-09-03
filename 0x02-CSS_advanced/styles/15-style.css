@@ -348,7 +348,7 @@
     display: none;
   }
   *:before, *, *:after {
-      box-sizing: content-box;
+      box-sizing: border-box;
   }
 html {
     scroll-behavior: smooth;
