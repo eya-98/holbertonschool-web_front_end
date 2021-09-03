@@ -460,11 +460,6 @@ ul.row {
 .footer ul{
     text-align: right;
 }
-[data-section-theme=“dark”] {
-    --text-color: var(--color-white);
-    --section-title-color: var(--color-white);
-    background-color: var(--color-black);
-}
 .container {
  width: 960px;
  margin-right:auto;
@@ -512,6 +507,11 @@ margin-left: auto;
     float: left;
     padding: 0.5rem;
 }
+[data-section-theme=“dark”] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
+}
 .footer{
     padding: var(--footer-padding);
-}   
+}
