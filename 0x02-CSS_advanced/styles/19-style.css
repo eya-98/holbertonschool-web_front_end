@@ -436,7 +436,7 @@ a:active{
     font-weight: var(--font-weight-bold);
     margin: var(--section-tagline-margin);
 }
-.row ul{
+ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
