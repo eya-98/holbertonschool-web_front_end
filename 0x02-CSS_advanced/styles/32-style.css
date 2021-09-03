@@ -553,10 +553,10 @@ transform: scale(0.95);
     transition-property: color, background-color;
 }
 .card-work:hover .card-image {
-    transition: var(–transition-duration) var(transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 .card-work .card-inner {
-    transition: var(–transition-duration) var(transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 [class^="col-"]{
     float: left;
