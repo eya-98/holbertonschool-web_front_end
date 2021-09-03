@@ -21,7 +21,7 @@ a:link:visited{
 font-style:italic;
 }
 a:link:hover{
-    text-decoration: underline;
+    text-decoration: underline; 
 }
 a:link:active{
     background-color: color-light-grey;
