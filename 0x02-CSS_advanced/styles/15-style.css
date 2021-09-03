@@ -347,8 +347,8 @@
   [hidden] {
     display: none;
   }
-  * {
-      box-sizing: border-box;
+  *::before {
+      box-sizing: content-box;
   }
 html {
     scroll-behavior: smooth;
