@@ -465,6 +465,11 @@ ul.row {
  margin-right:auto;
 margin-left: auto;
 }
+[data-section-theme="dark"] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
+}
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
@@ -506,11 +511,6 @@ margin-left: auto;
 [class^="col-"]{
     float: left;
     padding: 0.5rem;
-}
-[data-section-theme=“dark”] {
-    --text-color: var(--color-white);
-    --section-title-color: var(--color-white);
-    background-color: var(--color-black);
 }
 .footer{
     padding: var(--footer-padding);
