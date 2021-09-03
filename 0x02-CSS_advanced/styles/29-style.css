@@ -601,7 +601,7 @@ margin-bottom: 5rem;
 .section-hero .section-inner {
     padding: 10rem 40rem 2rem 0;
 }
-nav .nav-link:before{
+nav .nav-link::before{
     content: "";
     position:absolute;
     top: 0;
@@ -610,7 +610,7 @@ nav .nav-link:before{
     width: 0;
     height: 20%;
 }
-nav .nav-link:hover {
+nav .nav-link:hover .nav-link::before {
 background-color: var(--color-primary);
 width: 100%;
 }
