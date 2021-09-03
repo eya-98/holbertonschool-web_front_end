@@ -448,11 +448,9 @@ ul.row {
 }
 .col-1-3{
     width: 33.33%;
-    float:left;
 }
 .col-1-2{
     width: 50%;
-    float: left;
 }
 .footer-copyright{
     margin: 0;
