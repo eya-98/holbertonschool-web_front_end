@@ -402,7 +402,7 @@ a:hover{
 a:active{
     background-color: var(--color-light-grey);
 }
-.row:after {
+.row::after {
     content: none;
     display: table;
     float: none;
