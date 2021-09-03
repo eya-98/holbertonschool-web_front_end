@@ -575,7 +575,7 @@ height: 10rem;
     color: var(--color-primary);
 }
 .section-hero {
-    background-position: 90rem auto;
+    background-size: 90rem auto;
 }
 .section-hero .section-title {
 margin-bottom: 5rem;
