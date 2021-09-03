@@ -347,7 +347,7 @@
   [hidden] {
     display: none;
   }
-  *::before {
+  html::before {
       box-sizing: content-box;
   }
 html {
