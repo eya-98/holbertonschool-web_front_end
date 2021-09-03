@@ -516,7 +516,7 @@ margin-left: auto;
     padding: var(--footer-padding);
 }
 .footer-adress{
-    text-color: var(--text-color);
+    color: var(--text-color);
 }
 .social-link{
     display: block;
