@@ -618,7 +618,7 @@ width: 100%;
 position: relative;
 overflow: hidden;
 } 
-.card-work .card-image {
+.card-work .card-image img {
     height: 30rem;
     width: 100%;
     object-fit: cover;
@@ -641,7 +641,7 @@ overflow: hidden;
     height: 100%;
     position: relative;
 }
-.card-title.a .card-work.a {
+.card-title .card-work a {
     display: block;
     text-decoration: none;
     padding-top: 45%;
