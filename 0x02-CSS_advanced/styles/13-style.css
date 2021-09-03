@@ -13,17 +13,17 @@ h1, h2, h3, h4, h5, h6{
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);   
 }
-a link{
+a:link{
     color: #161616;
     text-decoration: none;
 }
-a link :visited{
+a:link:visited{
 font-style:italic;
 }
-a link :hover{
+a:link:hover{
     text-decoration: underline;
 }
-a link :active{
+a:link:active{
     background-color: color-light-grey;
 }
 .visually-hidden {
