@@ -658,7 +658,7 @@ content: "";
 opacity: 1;
 }
 .card-testimonial .card-quote {
-    position: absolute;
+    position: relative;
 }
 .card-testimonial .card-quote::before {
     content: "\201C";
