@@ -646,7 +646,7 @@ overflow: hidden;
     text-decoration: none;
     padding-top: 45%;
 }
-.card-title.a::after .card-work.a::after{
+.card-title .card-work a::after{
 position: absolute;
 top: 0;
 right: 0;
