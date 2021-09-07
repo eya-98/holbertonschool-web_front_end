@@ -595,9 +595,11 @@
         height: auto;
     }
     .post-content p:first-child {
-        margin: 1rem 0;
-        padding: 0 .5rem;
-        font-size: var(--font-size-small);
-        color: var(--color-grey);
-        text-align: center;
+        font-size: var(--font-size-x-large);
     }
+    .post-content .img-caption {
+    margin: 1rem 0;
+    padding: 0 .5rem;
+    font-size: var(--font-size-small);
+    color: var(--color-grey);
+    text-align: center;}
