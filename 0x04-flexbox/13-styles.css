@@ -565,12 +565,12 @@
         text-transform: uppercase;
         display: block;
     }
-    .post-meta-list [class*='post-meta-']{
+    [class*='post-meta-'] .post-meta-list {
         margin-bottom: 1rem;
         padding-bottom: 1rem;
         border-bottom: 0.2rem solid var(--color-light-grey);
     }
-    .post-meta-list [class*='post-meta']:last-child {
+    [class*='post-meta'] .post-meta-list:last-child {
         border: none;
         margin-bottom: 3rem;
     }
