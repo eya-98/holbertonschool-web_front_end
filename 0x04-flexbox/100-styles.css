@@ -594,7 +594,7 @@
         width: 100%;
         height: auto;
     }
-    .post-content:first-child {
+    .post-content p:first-child {
         margin: 1rem 0;
         padding: 0 .5rem;
         font-size: var(--font-size-small);
