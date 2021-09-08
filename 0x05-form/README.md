@@ -1,4 +1,4 @@
-** At the end of this project : **
+__ At the end of this project : __
 - We are creating an HTML5 form
 - We'll Define How to constrain a form field with regular expressions
 - wi'll Define How to style inputs for invalid, valid, and required fields
