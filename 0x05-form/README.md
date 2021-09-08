@@ -4,3 +4,4 @@
 - wi'll Define How to style inputs for invalid, valid, and required fields
 - We'll Define How to build a simple search form
 - We'll define How to create usable and accessible forms
+![Form](https://github.com/eya-98/holbertonschool-web_front_end/blob/main/0x05-form/form.jpg)
