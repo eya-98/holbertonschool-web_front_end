@@ -688,6 +688,9 @@
         box-shadow: none;
         outline: 0;
     }
+    input[type=text], input[type=email], input[type=textarea] {
+        padding-right: 3rem;
+    }
     input[type=text], input[type=email], textarea:focus {
         border: .1rem solid var(--color-grey);
         background-color: var(--color-light-grey);
