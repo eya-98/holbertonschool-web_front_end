@@ -5,7 +5,7 @@
 - 2012: WCAG 2.0 became ISO standard
 - 2017: WCAG 2.1 draft under public review
 - 2018: WCAG 2.1 became ISO standard
-- 2020: WCAG 2.2 working draft and WCAG 3.0 (called “Silver”) is also in working phase  
+- 2020: WCAG 2.2 working draft and WCAG 3.0 (called “Silver”) is also in working phase   
 *4 principles*  
 WCAG is organized around four principles often called by the acronym POUR:  
 
