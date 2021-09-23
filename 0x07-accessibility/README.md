@@ -1,4 +1,4 @@
-**0x07. Accessibility**
+**0x07. Accessibility**  
 *WCAG timeline*
 - 1999: WCAG 1.0 released by W3C
 - 2008: WCAG 2.0 (current version) released
